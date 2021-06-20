@@ -1,7 +1,7 @@
 {
     "app_name": "Search Engine for CSV Datasets",  //Name of the app
     "description": "NodeJS implementation of RediSearch that creates searching search indexes and suggestion dictionaries and returns non-duplicated records", // One line description
-    "hidden": false, // Can be "true" or "false". If true, this app won't show up in Marketplace.
+    "hidden": true, // Can be "true" or "false". If true, this app won't show up in Marketplace.
     "rank": 22, // This is used to sort the apps in the marketplace. 1 to 20 are reserved. Enter greater than 20
     "type": "Full App", //Can be "Building Block" or "Full App"
     "contributed_by": "Community", // Can be "Redis Labs" or "Community" or "Partner"
