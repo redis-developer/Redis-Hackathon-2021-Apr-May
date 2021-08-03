@@ -1,25 +1,24 @@
 {
-    "app_name": "Search Engine for CSV Datasets",  //Name of the app
-    "description": "NodeJS implementation of RediSearch that creates searching search indexes and suggestion dictionaries and returns non-duplicated records", // One line description
-    "hidden": true, // Can be "true" or "false". If true, this app won't show up in Marketplace.
-    "rank": 22, // This is used to sort the apps in the marketplace. 1 to 20 are reserved. Enter greater than 20
-    "type": "Full App", //Can be "Building Block" or "Full App"
-    "contributed_by": "Community", // Can be "Redis Labs" or "Community" or "Partner"
-    "repo_url": "https://github.com/Fazaarycode/Redis-Hackathon-2021-Apr-May", //This is the Gitub Repo's URL.
-    "download_url": "https://github.com/Fazaarycode/Redis-Hackathon-2021-Apr-May/archive/refs/heads/main.zip",
-    "hosted_url": "", //The URL of the app. if you are hosting this app somewhere
-    "quick_deploy": "false", //"frue" if the project has Heroku, Vercel, Google deploy buttons
+    "app_name": "Search Engine for CSV Datasets",  
+    "description": "NodeJS implementation of RediSearch that creates searching search indexes and suggestion dictionaries and returns non-duplicated records", 
+    "rank": "492", 
+    "type": "Full App", 
+    "contributed_by": "Community", 
+    "repo_url": "https://github.com/redis-developer/Redis-Hackathon-2021-Apr-May", 
+    "download_url": "https://github.com/redis-developer/Redis-Hackathon-2021-Apr-May/archive/refs/heads/main.zip",
+    "hosted_url": "", 
+    "quick_deploy": "false", 
     "deploy_buttons": [
     ],
-    "language": ["JavaScript", "NodeJS"], // Backend technologies: "JavaScript", "Java", "Python", "Go", "C#", "Ruby", "PHP", etc. 
-    "redis_commands": ["SET", "GET", "FT.SEARCH", "FT.DROP_INDEX", "FT._LIST", "FT.CREATE", "FT.SUGADD", "FT.SUGGET"], // Enter all the Redis commands
-    "redis_features": ["RediSearch", "caching","jwt-redis"],// Enter any core Redis feature or leave it blank.
-    "redis_modules": ["RediSearch"], //Value can be one or more of "RediJSON", "RediSearch", "RedisTimeseries", "RedisAI"  "RedisGears" or "RedisGraph" listed in an array. 
+    "language": ["JavaScript", "NodeJS"], 
+    "redis_commands": ["SET", "GET", "FT.SEARCH", "FT.DROP_INDEX", "FT._LIST", "FT.CREATE", "FT.SUGADD", "FT.SUGGET"], 
+    "redis_features": ["RediSearch", "caching","jwt-redis"],
+    "redis_modules": ["RediSearch"],  
     "app_image_urls": [
-        "https://github.com/Fazaarycode/Redis-Hackathon-2021-Apr-May/blob/main/Thumbnail_Picture.png"
-    ], // Provide any image urls in an array.
-    "youtube_url": "https://www.youtube.com/watch?v=nnLRGOMQHgA", //Provide a Youtube link to your app's video
-    "special_tags": ["Hackathon"], // "Hackathon", "Paid", or any event names.
-    "verticals": ["Productivity","Utility","Fast Data Search Tooling"], // Can be: "Healthcare", "Financial", "Tourism", "Retail", "Oil & Gas", "Manufacturing", "Technology","Education", "Construction"  
-    "markdown": "https://raw.githubusercontent.com/Fazaarycode/Redis-Hackathon-2021-Apr-May/main/README.md", // Link to the RAW Markdown.
+        "https://raw.githubusercontent.com/redis-developer/Redis-Hackathon-2021-Apr-May/main/Thumbnail_Picture.png"
+    ], 
+    "youtube_url": "https://www.youtube.com/watch?v=nnLRGOMQHgA", 
+    "special_tags": ["Hackathon"], 
+    "verticals": ["Productivity","Utility","Fast Data Search Tooling"], 
+    "markdown": "https://raw.githubusercontent.com/redis-developer/Redis-Hackathon-2021-Apr-May/main/README.md"
 }
