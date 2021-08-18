@@ -20,6 +20,6 @@
     ], 
     "youtube_url": "https://www.youtube.com/watch?v=21G_kSvhgTU", 
     "special_tags": ["Hackathon"], 
-    "verticals": ["Productivity","Utility","Fast Data Search Tooling"], 
+    "verticals": ["Others"], 
     "markdown": "https://raw.githubusercontent.com/redis-developer/Redis-Hackathon-2021-Apr-May/main/README.md"
 }
