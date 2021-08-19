@@ -13,7 +13,7 @@
     ],
     "language": ["JavaScript", "NodeJS"], 
     "redis_commands": ["SET", "GET", "FT.SEARCH", "FT.DROP_INDEX", "FT._LIST", "FT.CREATE", "FT.SUGADD", "FT.SUGGET"], 
-    "redis_features": ["RediSearch", "caching","jwt-redis"],
+    "redis_features": ["Search", "Caching","JWT"],
     "redis_modules": ["RediSearch"],  
     "app_image_urls": [
         "https://raw.githubusercontent.com/redis-developer/Redis-Hackathon-2021-Apr-May/main/Thumbnail_Picture.png"
