@@ -1,7 +1,7 @@
 {
     "app_name": "Search Engine for CSV Datasets",  
     "description": "NodeJS implementation of RediSearch that creates searching search indexes and suggestion dictionaries and returns non-duplicated records", 
-    "rank": "492", 
+    "rank": 160, 
     "type": "Full App", 
     "contributed_by": "Community", 
     "repo_url": "https://github.com/redis-developer/Redis-Hackathon-2021-Apr-May", 
