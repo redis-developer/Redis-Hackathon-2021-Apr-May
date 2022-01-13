@@ -3,11 +3,9 @@ Author: Mohamed Fazaary A S
 Associate Consultant @ Servian
  -->
 
- # What? 
+ 
 This is an implementation of RediSearch leveraging Exact Match, Prefix based searching and Fuzzy search features
 
-# Youtube Video Link
-https://www.youtube.com/watch?v=nnLRGOMQHgA
 
 # Why do we need this app? 
 A lot of times, we need to search keyWords in our dataset. It is super hard to go through each dataset when we exactly don't remember where they keyWord and data that we search for resides.
